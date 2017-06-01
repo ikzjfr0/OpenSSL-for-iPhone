@@ -1,3 +1,8 @@
+# ikzjfr0 comment:
+## openssl version 1.0.2k is used (this is the reason for this repo forked)
+## create .framework via create-openssl-framework.sh
+
+
 # OpenSSL-for-iOS [![Build Status](https://travis-ci.org/x2on/OpenSSL-for-iPhone.png)](https://travis-ci.org/x2on/OpenSSL-for-iPhone)
 
 This is a script for using self-compiled builds of the OpenSSL-library on the iPhone. You can build apps with Xcode and the official SDK from Apple with this. I also made a small example-app for using the libraries with Xcode and the iPhone/iPhone-Simulator.
